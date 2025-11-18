@@ -31,7 +31,9 @@ session_start();
     <div class="container">
       <a href="/index.php">
         <h1 class="fonte" style="color: #e5d335;">4Charmes</h1>
-      </a>
+      </a>  
+
+      
       Menu
       <i class="fas fa-bars ms-1"></i>
       </button>
